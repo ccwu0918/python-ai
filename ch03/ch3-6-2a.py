@@ -1,0 +1,10 @@
+a = 6 + 7   # 計算6+7的和後，指定給變數a
+print("a =", a)
+c = 2        
+b = c + 5   # 將變數c的值加5後，指定給變數b
+print("b =", b)
+x = 1
+y = 2
+z = 3
+total = x + y + z  # 將變數x, y, z的值相加後，指定給變數total
+print("total =", total)
